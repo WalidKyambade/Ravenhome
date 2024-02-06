@@ -1,0 +1,31 @@
+Gizmo|5|1|10
+Old Boot|14|1|1
+New Boot|17|1|8
+Daggy Joe|25|1|3
+Spider Jar|35|1|7
+Tiny little spoon|45|1|5
+Little Cup of Milk|55|1|7
+Non-Magical Yarn|75|1|4
+Big Ol' Backpack|110|1|8
+Mystery Potion?|160|1|9
+Sword of Life|200|1|6
+Talking Plant|205|2|1
+Wierd Pants (bad wierd)|240|2|2
+Lute Flute|300|2|3
+Musical Beans|350|2|4
+Crown of Water|400|2|5
+Book of Dragontongue|460|2|10
+Bottled Light|530|2|9
+Golly Gosh Machine|600|2|4
+Handbook of Thieves|700|2|7
+Black Sword|900|2|3
+Singing Plant|1000|3|1
+Small statue of a Ladybug|1200|3|5
+Baby Goblin|1500|3|8
+Glasses that can walk|2000|3|9
+Red Glowy Thing|2700|3|5
+Ring with wierd writing on the inside|3800|3|6
+Spooky Green Ball|5000|3|5
+COBRA HAWK FIRE SWORD|7000|3|1
+Dragon Egg|9000|3|3
+Jeweled Raven|16000|3|10
